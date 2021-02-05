@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 
-<!--
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
 🐦 [facebook][facebook] **|** 
@@ -16,4 +15,3 @@
 [instagram]: https://instagram.com/mobidaldotcom
 [linkedin]: https://linkedin.com/in/mobidal
 
--->
